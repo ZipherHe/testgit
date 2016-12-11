@@ -1,2 +1,6 @@
 bbbbbbb
+<<<<<<< HEAD
 master
+=======
+master
+>>>>>>> fenzhi
